@@ -3,7 +3,7 @@ import java.util.Stack;
 
 public class list{
     static class stack{
-        static ArrayList<Integer> list= new ArrayList<>();
+        static ArrayList<Integer> list= new ArrayList<>();// create a list
         public static boolean isEmpty(){
             return list.size()==0;
         }
