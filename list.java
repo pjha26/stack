@@ -7,7 +7,7 @@ public class list{
         public static boolean isEmpty(){
             return list.size()==0;
         }
-        //push
+        //p
         public static void push(int data){
             list.add(data);
         }
