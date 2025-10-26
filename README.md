@@ -1,1 +1,1 @@
-Few problems are solved in java suing the concept of stack on arraylist and linkedlist
+Few problems are solved in java using the concept of stack on arraylist and linkedlist
