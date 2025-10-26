@@ -11,7 +11,7 @@ public class list{
         public static void push(int data){
             list.add(data);
         }
-        //pop the element
+        //pop 
         public static int pop(){
             if(isEmpty()){
                 return -1;
